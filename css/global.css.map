@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,MAAM",
+    "sources": [
+        "../sass/global.scss"
+    ],
+    "names": [],
+    "file": "global.css"
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../materials/material.scss",
+        "../materials/_section-1.scss"
+    ],
+    "names": [],
+    "file": "material.css"
+}
